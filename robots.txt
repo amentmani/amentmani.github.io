@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://amentmani.github.io/sitemap.html.gz
+Sitemap: https://amentmani.github.io/app/sitemap.html.gz
+Sitemap: https://amentmani.github.io/assets/sitemap.html.gz
+Sitemap: https://amentmani.github.io/css/sitemap.html.gz
+Sitemap: https://amentmani.github.io/includes/sitemap.html.gz
+Sitemap: https://amentmani.github.io/item/sitemap.html.gz
+Sitemap: https://amentmani.github.io/src/sitemap.html.gz
